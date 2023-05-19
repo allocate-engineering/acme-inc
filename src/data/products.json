@@ -1,0 +1,165 @@
+{
+    "products": [
+        {
+            "id": "001",
+            "name": "Acme Rocket",
+            "description": "A high-speed rocket, perfect for those urgent deliveries. Not recommended for chasing roadrunners.",
+            "price": 5000.0,
+            "category": "Transportation",
+            "quantity": 10
+        },
+        {
+            "id": "002",
+            "name": "Explosive Tennis Balls",
+            "description": "These explosive tennis balls pack a punch. Not intended for recreational tennis games.",
+            "price": 100.0,
+            "category": "Sporting Goods",
+            "quantity": 50
+        },
+        {
+            "id": "003",
+            "name": "Acme Anvil",
+            "description": "Classic blacksmith's anvil. Exceptionally heavy, may occasionally drop from great heights.",
+            "price": 200.0,
+            "category": "Blacksmithing",
+            "quantity": 25
+        },
+        {
+            "id": "004",
+            "name": "Invisible Paint",
+            "description": "Paint anything and it becomes invisible! Caution: Effect may be temporary.",
+            "price": 150.0,
+            "category": "Art Supplies",
+            "quantity": 20
+        },
+        {
+            "id": "005",
+            "name": "Giant Rubber Band",
+            "description": "A versatile giant rubber band, useful for a variety of surprising situations.",
+            "price": 30.0,
+            "category": "Office Supplies",
+            "quantity": 100
+        },
+        {
+            "id": "006",
+            "name": "Portable Hole",
+            "description": "A hole you can take anywhere. Just throw it down and jump in!",
+            "price": 800.0,
+            "category": "Novelties",
+            "quantity": 15
+        },
+        {
+            "id": "007",
+            "name": "Acme Earthquake Pills",
+            "description": "Consume to cause minor seismic disturbances. Do not swallow.",
+            "price": 75.0,
+            "category": "Health and Wellness",
+            "quantity": 40
+        },
+        {
+            "id": "008",
+            "name": "Jet-Propelled Pogo Stick",
+            "description": "A traditional pogo stick with a jet engine. Helmet not included.",
+            "price": 950.0,
+            "category": "Transportation",
+            "quantity": 5
+        },
+        {
+            "id": "009",
+            "name": "Instant Tornado Kit",
+            "description": "Create your own tornado in seconds! For outdoor use only.",
+            "price": 500.0,
+            "category": "Weather",
+            "quantity": 10
+        },
+        {
+            "id": "010",
+            "name": "Looney Tunes Character Plushies",
+            "description": "Collect them all! Each sold separately.",
+            "price": 20.0,
+            "category": "Toys",
+            "quantity": 100
+        },
+        {
+            "id": "011",
+            "name": "Self-Guided Frisbee",
+            "description": "Never miss your target again with our self-guided frisbee.",
+            "price": 35.0,
+            "category": "Sporting Goods",
+            "quantity": 60
+        },
+        {
+            "id": "012",
+            "name": "Do-It-Yourself Rocket Sled Kit",
+            "description": "Experience the thrill of rocket-propelled sledding. Some assembly required.",
+            "price": 500.0,
+            "category": "Outdoor Activities",
+            "quantity": 20
+        },
+        {
+            "id": "013",
+            "name": "Boomerang Fishing Rod",
+            "description": "Casts out and retrieves itself. Note: Fish not guaranteed.",
+            "price": 120.0,
+            "category": "Fishing",
+            "quantity": 35
+        },
+        {
+            "id": "014",
+            "name": "Acme Instant Skywriting Kit",
+            "description": "Write in the sky without a plane! Note: Clear skies recommended.",
+            "price": 200.0,
+            "category": "Art Supplies",
+            "quantity": 10
+        },
+        {
+            "id": "015",
+            "name": "Spring-Powered Shoes",
+            "description": "Add a bounce to your step. Great for tall shelves.",
+            "price": 150.0,
+            "category": "Footwear",
+            "quantity": 45
+        },
+        {
+            "id": "016",
+            "name": "Portable Tunnel",
+            "description": "A tunnel you can paint on any wall. Warning: May not work on all surfaces.",
+            "price": 250.0,
+            "category": "Novelties",
+            "quantity": 30
+        },
+        {
+            "id": "017",
+            "name": "Acme Disintegrating Pistol",
+            "description": "Perfect for vanishing objects. Note: Objects may not reappear.",
+            "price": 300.0,
+            "category": "Gadgets",
+            "quantity": 20
+        },
+        {
+            "id": "018",
+            "name": "Detachable Rocket Engines",
+            "description": "Add propulsion to any object. Not recommended for use on pets.",
+            "price": 400.0,
+            "category": "Transportation",
+            "quantity": 15
+        },
+        {
+            "id": "019",
+            "name": "Instant Road Repair Kit",
+            "description": "Fix any road in seconds. Warning: Traffic control not included.",
+            "price": 600.0,
+            "category": "Construction",
+            "quantity": 10
+        },
+        {
+            "id": "020",
+            "name": "Looney Tunes Character Figurines",
+            "description": "Your favorite characters in detailed figurine form. Collect them all!",
+            "price": 15.0,
+            "category": "Toys",
+            "quantity": 120,
+            "outOfStock": true
+        }
+    ]
+}
