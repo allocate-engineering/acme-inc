@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<svg
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    style="shape-rendering:geometricPrecision;text-rendering:geometricPrecision;image-rendering:optimizeQuality"
+    fill-rule="evenodd"
+    xml:space="preserve"
+    version="1.1"
+    clip-rule="evenodd"
+    viewBox="0 0 7931 9114"
+  >
+ <defs
+    >
+  <style
+        type="text/css"
+      >
+    .fil1 {fill:#4D4D64}
+    .fil0 {fill:#E6E6E6}
+  </style
+    >
+ </defs
+  >
+ <g
+      id="Layer_x0020_1"
+    >
+  <rect
+        width="7931"
+        class="fil0"
+        height="9114"
+    />
+  <g
+        id="_1034117664"
+      >
+   <path
+          class="fil1"
+          d="m6452 7419c-1599 673-3401 673-5e3 0 170-580 409-552 346-1111 914-156 1475-223 1868-241 24 274 174 407 300 641 126-234 276-367 300-641 393 17 954 85 1868 241-63 558 148 530 318 1111z"
+      />
+    <path
+          class="fil1"
+          d="m3832 5029h91l1 98v9l1 44c0 16 1 28 2 41 6 121 20 221 43 300 23-79 37-179 43-301 1-12 2-25 2-41l1-43v-9l1-98h90c124 126 195 322 215 588h-704c20-265 92-461 215-588z"
+      />
+    <path
+          class="fil1"
+          d="m4023 4564h487v163c0 5 1 10 1 16 0 70-31 135-83 179h-322v81h-89c2-150 4-295 6-438z"
+      />
+    <path
+          class="fil1"
+          d="m3969 807v1648c646 0 651 1034 13 1048-4-1-8-1-12-1-33 0-67 19-67 58 7 508 12 947 18 1441h-90v-81h-322c-52-43-83-109-83-179v-82h-55v-378h-170c-155 329-319 742-295 1238-220-953-131-1625 269-2016 33-763 8-1849 793-2697zm19 2438h-39c-18 0-35-3-50-10-16-7-29-17-41-29s-21-26-28-43c-7-16-10-34-10-52v-263c0-18 3-36 10-52s16-31 28-43 25-22 41-29 32-10 50-10h39c17 0 34 3 50 10s29 17 41 29c12 13 21 27 28 43s10 34 10 52v263c0 18-3 36-10 52s-16 31-28 43c-12 13-26 22-41 29s-32 10-50 10z"
+      />
+    <path
+          class="fil1"
+          d="m3718 5952c-8-94 0-187 31-278h440c31 91 42 182 33 278-95-4-178-5-253-3-75-2-157-1-251 3z"
+      />
+    <path
+          class="fil1"
+          d="m4682 4282c155 329 319 742 295 1238 220-953 105-1625-295-2016v778z"
+      />
+  </g
+    >
+ </g
+  >
+<metadata
+    ><rdf:RDF
+      ><cc:Work
+        ><dc:format
+          >image/svg+xml</dc:format
+        ><dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        /><cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        /><dc:publisher
+          ><cc:Agent
+              rdf:about="http://openclipart.org/"
+            ><dc:title
+              >Openclipart</dc:title
+            ></cc:Agent
+          ></dc:publisher
+        ><dc:title
+          >Simple Rocket</dc:title
+        ><dc:date
+          >2013-07-21T14:27:24</dc:date
+        ><dc:description
+          >Simple rocket with use of negative space. </dc:description
+        ><dc:source
+          >https://openclipart.org/detail/181029/simple-rocket-by-barrettward-181029</dc:source
+        ><dc:creator
+          ><cc:Agent
+            ><dc:title
+              >barrettward</dc:title
+            ></cc:Agent
+          ></dc:creator
+        ><dc:subject
+          ><rdf:Bag
+            ><rdf:li
+              >negative</rdf:li
+            ><rdf:li
+              >rocket</rdf:li
+            ><rdf:li
+              >screenprint</rdf:li
+            ><rdf:li
+              >simple</rdf:li
+            ><rdf:li
+              >space</rdf:li
+            ></rdf:Bag
+          ></dc:subject
+        ></cc:Work
+      ><cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        ><cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        /><cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        /><cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        /></cc:License
+      ></rdf:RDF
+    ></metadata
+  ></svg
+>
